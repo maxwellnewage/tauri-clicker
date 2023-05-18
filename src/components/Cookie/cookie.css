@@ -1,0 +1,7 @@
+.cookie-img {
+    transition: transform 100ms;
+}
+
+.cookie-img--animated {
+    transform: scale(1.1);
+}
