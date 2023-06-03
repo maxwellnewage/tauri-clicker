@@ -1,7 +1,2 @@
-# Tauri + React + Typescript
-
-This template should help get you started developing with Tauri, React and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# Cookie Clicker Clon en Tauri
+Versión final del clon de Cookie Clicker. Pueden encontrar una versión anterior con Electron en este [repositorio](https://github.com/maxwellnewage/react-clicker).
